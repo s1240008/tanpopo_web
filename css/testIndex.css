@@ -1,0 +1,37 @@
+/*this is test css*/
+
+#header{
+    border: solid black;
+    border-width: 0px 0px 3px;
+    font-size: 50px;
+}
+
+#test{
+    font-size:100px;
+    color: black;
+    font-weight:900;
+}
+
+#myTable1,th,td{
+    border: solid yellowgreen;
+}
+
+th{
+    background: yellowgreen;
+    color: white;
+    font-weight: 900;
+}
+
+#myTable1{
+    border-width: 3px;
+    border-radius: 10px;
+    border-spacing: 0;
+    margin: 10px 0px 0px 0px;
+}
+
+th,td{
+    border-width: 2px;
+    padding: 0px 10px;
+}
+
+

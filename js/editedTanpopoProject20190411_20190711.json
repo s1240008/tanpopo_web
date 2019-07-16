@@ -1,0 +1,692 @@
+[
+  {
+    "ReleaseDate": "Jan-18", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/873907/1/SA6000117017.pdf", 
+    "Paper Title": "たんぽぽ計画の概要と二年目曝露試料の初期解析の現状 ", 
+    "Author": "山岸明彦,橋本博文 ,矢野 創,横堀伸一,河口優子,小林憲正,三田肇,薮田ひかる,東出真澄,田端誠,河合秀幸,今井栄一", 
+    "Note": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/876335/1/SA6000118008.pdf  と同じ可能性あり", 
+    "Jounal": "宇宙環境利用シンポジウム 第32回： 平成29年度\nSpace Utilization Research, Vol. 32 2017: Proceedings of The Thirty-second Space Utilization Symposium", 
+    "ID": "1"
+  }, 
+  {
+    "ReleaseDate": "2018/4/18", 
+    "DOI": "-", 
+    "URL": "https://www.hindawi.com/journals/tswj/2018/7360147/abs/\n", 
+    "Paper Title": "The DNA of bacteria of the World Ocean and the Earth in cosmic dust at the International Space Station ", 
+    "Author": "T. V. Grebennikova,A. V. Syroeshkin,E. V. Shubralova,O. V. Eliseeva,L. V. Kostina,N. Y. Kulikova,O. E. Latyshev,M. A. Morozova,A. G. Yuzhakov,I. A. Zlatskiy,M. A. Chichaeva,O. S. Tsygankov", 
+    "Note": "", 
+    "Jounal": "The Scientific World Journal Volume 2018", 
+    "ID": "2"
+  }, 
+  {
+    "ReleaseDate": "2018/2/1", 
+    "DOI": "-", 
+    "URL": "https://www.liebertpub.com/doi/abs/10.1089/ast.2017.1649", 
+    "Paper Title": "Astrovirology: Viruses at Large in the Universe ", 
+    "Author": "Berliner Aaron J. ,Mochizuki Tomohiro ,Stedman Kenneth M. ", 
+    "Note": "", 
+    "Jounal": "AstrobiologyVol. 18, No. 2", 
+    "ID": "3"
+  }, 
+  {
+    "ReleaseDate": "2018", 
+    "DOI": "https://doi.org/10.14822/kjsass.66.2_50", 
+    "URL": "https://www.jstage.jst.go.jp/article/kjsass/66/2/66_50/_article/-char/ja/", 
+    "Paper Title": "探査ミッション立案スクール“Astrobiology in the Solar System”に参加して", 
+    "Author": "江川 雄亮", 
+    "Note": "66 巻 2 号 p. 50-51", 
+    "Jounal": "J-STAGE 2018 年 66 巻 2 号 p. 50-51", 
+    "ID": "4"
+  }, 
+  {
+    "ReleaseDate": "18-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/handle/a-is/873917", 
+    "Paper Title": "ヴァン・アレン帯に挑む生命科学実験 ", 
+    "Author": "橋本 博文,横堀 伸一,三田 肇,高橋 昭久,吉田 由香里,稲富 裕光 ", 
+    "Note": "", 
+    "Jounal": "宇宙環境利用シンポジウム 第32回： 平成29年度\nSpace Utilization Research, Vol. 32 2017: Proceedings of The Thirty-second Space Utilization Symposium", 
+    "ID": "5"
+  }, 
+  {
+    "ReleaseDate": "18-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/handle/a-is/876449", 
+    "Paper Title": "Tanpopo Mission: Analysis of Amino Acid-Related Samples After 1 Years’ Space Exposure", 
+    "Author": "小林 憲正, 三田 肇, 癸生川 陽子, 中川 和道, 青木 涼平, 原田 拓, 三澤 柊介, 佐藤 智仁, 内藤 敬介, 横尾 卓哉, 峰松 沙綾, 石山 公啓, 今井 栄一, 矢野 創, 橋本 博文, 横堀 伸一, 山岸 明彦,たんぽぽ研究チーム", 
+    "Note": "", 
+    "Jounal": "第18回宇宙科学シンポジウム 講演集\nProceedings of the 18th Space Science Symposium", 
+    "ID": "6"
+  }, 
+  {
+    "ReleaseDate": "2017/4/21", 
+    "DOI": "-", 
+    "URL": "https://www.researchgate.net/publication/322775324_Results_from_the_Tanpopo_capture_panels_Using_silica_aerogel_for_retrieving_cosmic_dust_from_low-Earth_orbits", 
+    "Paper Title": "Results from the Tanpopo Capture Panels: Using Silica Aerogel for Retrieving Cosmic Dust from Low-Earth Orbits", 
+    "Author": "M. Tabata, H. Hashimoto, D. Horikawa, E. Imai, J. Imani, Y. Ishibashi, Y. Kawaguchi, Y. Kebukawa, K. Kobayashi, H. Mita, K. Okudaira, S. Sasaki, S. Yokobori, H. Yano, A. Yamagishi ", 
+    "Note": "", 
+    "Jounal": "31th International Symposium on Space Technology and Science, At Matsuyama, Japan, Volume: ISTS Web Paper Archives, 2017-k-03", 
+    "ID": "7"
+  }, 
+  {
+    "ReleaseDate": "2017/7/21", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2017LPICo1967.4131K", 
+    "Paper Title": "Stability of Amino Acid-Related Compounds in Space — Preliminary Results of the Tanpopo Organic Exposure Experiment", 
+    "Author": "Kobayashi, K., Mita, H., Kebukawa, Y., Nakagawa, K., Ishiyama, K., Aoki, R., Harada, T., Misawa, S., Uchimura, E., Sato, T., Naito, K., Minematsu, S., Imai, E., Yano, H., Hashimoto, H., Yokobori, S., ", 
+    "Note": "", 
+    "Jounal": "XVIIIth International Conference on the Origin of Life, Proceedings of the conference held 16-21 July, 2017 in San Diego, California. LPI Contribution No. 1967, 2017, id.4131", 
+    "ID": "8"
+  }, 
+  {
+    "ReleaseDate": "2017/1/6", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/609841/1/SA6000060153.pdf", 
+    "Paper Title": "たんぽぽ計画有機物曝露実験の現況報告 ", 
+    "Author": "K. Kobayashi, H. Mita, H. Y. Kebukawa, K. Nakagawa, E. Imai, H. Yano, H. Hashimoto, S. Yokobori, A. Yamagishi,Tanpopo WG Yokohama Natl. Univ., Fukuoka Inst. Tech., Kobe Univ., Nagaoka Univ. Tech., JAXA/ISAS,Tokyo Univ. Pharm. Life Sci. ", 
+    "Note": "", 
+    "Jounal": "第17回宇宙科学シンポジウム 講演集\nProceedings of the 17th Space Science Symposium", 
+    "ID": "9"
+  }, 
+  {
+    "ReleaseDate": "2017/12/15", 
+    "DOI": "10.1371/journal.pone.0189381", 
+    "URL": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189381", 
+    "Paper Title": "Proteometabolomic response of Deinococcus radiodurans exposed to UVC and vacuum conditions: Initial studies prior to the Tanpopo space mission", 
+    "Author": "Emanuel Ott, Yuko Kawaguchi, Denise Kölbl, Palak Chaturvedi, Kazumichi Nakagawa, Akihiko Yamagishi, Wolfram Weckwerth , Tetyana Milojevic ", 
+    "Note": "", 
+    "Jounal": "PLOS ONE, Edited by Andrzej T Slominski, vol. 12, issue 12, p. e0189381", 
+    "ID": "10"
+  }, 
+  {
+    "ReleaseDate": "17-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/609981/1/SA6000060151.pdf", 
+    "Paper Title": "P-109 Contamination Monitoring and Control for the Aerogel in the Tanpopo Mission ", 
+    "Author": "佐々木聰,小船井啓介,今仁順也,田端誠,今井栄一,矢野創,堀川大樹, 石橋之宏,河口優子,癸生川陽子,三田肇,奥平恭子,小林憲正,山岸明彦,東京工科大学,東京工科大学大学院,千葉大学,長岡科学技術大学,宇宙航空研究 開発機構,慶応義塾大学,九州大学,東京薬科大学,横浜国立大学,福岡工業大学,会津大学,横浜国立大学,東京薬科大学 ", 
+    "Note": "", 
+    "Jounal": "第17回宇宙科学シンポジウム 講演集\nProceedings of the 17th Space Science Symposium", 
+    "ID": "11"
+  }, 
+  {
+    "ReleaseDate": "Received\n02 February 2013\nAccepted\n16 September 2013", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/article/10.1007/s11084-013-9346-1", 
+    "Paper Title": "The Possible Interplanetary Transfer of Microbes: Assessing the Viability of Deinococcus spp. Under the ISS Environmental Conditions for Performing Exposure Experiments of Microbes in the Tanpopo Mission", 
+    "Author": "Yuko Kawaguchi,Yinjie Yang,Narutoshi Kawashiri,Keisuke Shiraishi,Masako Takasu,Issay Narumi,Katsuya Satoh,Hirofumi Hashimoto,Kazumichi Nakagawa,Yoshiaki Tanigawa,Yoh-hei Momoki,Maiko Tanabe,Tomohiro Sugino,Yuta Takahashi,Yasuyuki Shimizu,Satoshi Yoshida,Kensei Kobayashi,Shin-ichi Yokobori,Akihiko Yamagishi", 
+    "Note": "", 
+    "Jounal": "Origins of Life and Evolution of Biospheres\nOctober 2013, Volume 43, Issue 4–5, pp 411–428", 
+    "ID": "12"
+  }, 
+  {
+    "ReleaseDate": "17-Feb", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/802852/1/SA6000095035.pdf", 
+    "Paper Title": "宇宙塵捕集のための超低密度二層型 シリカエアロゲルの開発と較正 ", 
+    "Author": "田端 誠,長谷川 直", 
+    "Note": "", 
+    "Jounal": "平成28年度宇宙科学に関する室内実験シンポジウム 講演集\nProceedings of 2017 Symposium on Laboratory Experiment for Space Science", 
+    "ID": "13"
+  }, 
+  {
+    "ReleaseDate": "Received:\n30 September 2015\nAccepted:\n05 April 2017", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/article/10.1007/s11214-017-0365-5", 
+    "Paper Title": "Space as a Tool for Astrobiology: Review and Recommendations for Experimentations in Earth Orbit and Beyond", 
+    "Author": "Hervé Cottin,Julia Michelle Kotler,Daniela Billi,Charles Cockell,René Demets,Pascale Ehrenfreund,Andreas Elsaesser,Louis d’Hendecourt,Jack J. W. A. van Loon,Zita Martins,Silvano Onofri,Richard C. Quinn,Elke Rabbow,Petra Rettberg,Antonio J. Ricco,Klaus Slenzka,Rosa de la Torre,Jean-Pierre de Vera,Frances Westall,Nathalie Carrasco,Aurélien Fresneau,Yuko Kawaguchi,Yoko Kebukawa,Dara Nguyen,Olivier Poch,Kafila Saiagh,Fabien Stalport,Akihiko Yamagishi,Hajime Yano,Benjamin A. Klamm", 
+    "Note": "", 
+    "Jounal": "Space Science Reviews\nJuly 2017, Volume 209, Issue 1–4, pp 83–181", 
+    "ID": "14"
+  }, 
+  {
+    "ReleaseDate": "2017/12/24", 
+    "DOI": "https://doi.org/10.1016/j.jddst.2017.12.017", 
+    "URL": "https://www.sciencedirect.com/science/article/pii/S1773224717307608", 
+    "Paper Title": "Synthesis and characterization of silica aerogel as a promising drug carrier system ", 
+    "Author": "ManijehMohammadiana,Tahereh S.Jafarzadeh Kashiab,MohammadErfanc,Fatemeh PashaeiSoorbaghid\n", 
+    "Note": "", 
+    "Jounal": "Journal of Drug Delivery Science and Technology\nVolume 44, April 2018, Pages 205-212", 
+    "ID": "15"
+  }, 
+  {
+    "ReleaseDate": "2017\n", 
+    "DOI": "-", 
+    "URL": "https://read.dukeupress.edu/environmental-humanities/article/9/2/309/133020/IntroductionFamiliarizing-the-Extraterrestrial", 
+    "Paper Title": "Introduction: Familiarizing the Extraterrestrial / Making Our Planet Alien", 
+    "Author": "Istvan Praet\n,Juan Francisco Salazar", 
+    "Note": "この論文は引用されたものです。", 
+    "Jounal": "Environmental Humanities (2017) 9 (2): 309-324.", 
+    "ID": "16"
+  }, 
+  {
+    "ReleaseDate": "2017/5/1", 
+    "DOI": "-", 
+    "URL": "https://www.liebertpub.com/doi/full/10.1089/ast.2015.1431", 
+    "Paper Title": "Survival of Deinococcus geothermalisin Biofilms under Desiccation and Simulated Space and Martian Conditions", 
+    "Author": "Frösler Jan , Panitz Corinna , Wingender Jost , Flemming Hans-Curt , Rettberg Petra", 
+    "Note": "引用の可能性あり\n", 
+    "Jounal": "Astrobiology  VOL. 17, NO. 5", 
+    "ID": "17"
+  }, 
+  {
+    "ReleaseDate": "21 July 2017\n", 
+    "DOI": "10.1111/maps.12926", 
+    "URL": "https://onlinelibrary.wiley.com/doi/full/10.1111/maps.12926", 
+    "Paper Title": "2017 Barringer Medal for Akira Fujiwara", 
+    "Author": "Masanao Abe\n", 
+    "Note": "", 
+    "Jounal": "Meteoritics  &  Planetary Science52, Nr 8, 1756–1757 (2017)", 
+    "ID": "18"
+  }, 
+  {
+    "ReleaseDate": "2016/5/13", 
+    "DOI": "-", 
+    "URL": "https://www.liebertpub.com/doi/abs/10.1089/ast.2015.1415", 
+    "Paper Title": "Investigation of the Interplanetary Transfer of Microbes in the Tanpopo Mission at the Exposed Facility of the International Space Station ", 
+    "Author": "Yuko Kawaguchi,Shin-ichi Yokobori,Hirofumi Hashimoto,Hajime Yano,Makoto Tabata,Hideyuki Kawai,Akihiko Yamagishi ", 
+    "Note": "", 
+    "Jounal": "AstrobiologyVol. 16, No. 5", 
+    "ID": "19"
+  }, 
+  {
+    "ReleaseDate": "Received:\n14 July 2015\nAccepted:\n27 August 2015", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/article/10.1007/s10971-015-3857-3", 
+    "Paper Title": "Ultralow-density double-layer silica aerogel fabrication for the intact capture of cosmic dust in low-Earth orbits", 
+    "Author": "Makoto Tabata, Hideyuki Kawai,Hajime Yano, Eiichi Imai,Hirofumi Hashimoto, Shin-ichi Yokobori,Akihiko Yamagishi", 
+    "Note": "", 
+    "Jounal": "Journal of Sol-Gel Science and Technology\nFebruary 2016, Volume 77, Issue 2, pp 325–334", 
+    "ID": "20"
+  }, 
+  {
+    "ReleaseDate": "16-Jul", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2016cosp...41E1003K", 
+    "Paper Title": "Utilization of a terrestrial cyanobacterium, Nostoc sp. HK-01, for space habitation", 
+    "Author": "Kimura Shunt, Tomita Yokotani, Kaori Arai, Mayum Yamashita, Masamichi Katoh, Hiroshi Ajioka, Reiko Inoue, Kotomi", 
+    "Note": "", 
+    "Jounal": "41st COSPAR Scientific Assembly, abstracts from the meeting that was to be held 30 July - 7 August at the Istanbul Congress Center (ICC), Turkey, but was cancelled. See.http://cospar2016.tubitak.gov.tr/en/, Abstract id. F4.1-7-16.", 
+    "ID": "21"
+  }, 
+  {
+    "ReleaseDate": "26 June 2016\n", 
+    "DOI": "-", 
+    "URL": "https://academic.oup.com/femsre/article/40/5/722/2198066", 
+    "Paper Title": "Venturing into new realms? Microorganisms in space", 
+    "Author": "Christine Moissl-Eichinger,Charles Cockell,Petra Rettberg", 
+    "Note": "", 
+    "Jounal": "FEMS Microbiology Reviews, Volume 40, Issue 5, September 2016, Pages 722–737, https://doi.org/10.1093/femsre/fuw015", 
+    "ID": "22"
+  }, 
+  {
+    "ReleaseDate": "10-14 July 2016 ", 
+    "DOI": "-", 
+    "URL": "https://ttu-ir.tdl.org/ttu-ir/bitstream/handle/2346/67683/ICES_2016_353.pdf?sequence=1", 
+    "Paper Title": "Space environmental tolerance of a terrestrial cyanobacterium, Nostoc sp. HK-01 ", 
+    "Author": "Shunta Kimura,Kaori Tomita-Yokotani,Kotomi Inoue,Seigo Sato,University of Tsukuba,Tsukuba,Ibaraki\n",
+    "Note": "", 
+    "Jounal": "46th International Conference on Environmental Systems 10-14 July 2016, Vienna, Austria", 
+    "ID": "23"
+  }, 
+  {
+    "ReleaseDate": "16-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/561682/1/SA6000048037.pdf", 
+    "Paper Title": "国際宇宙ステーション曝露部実験「有機物・微生物の宇宙曝露と 宇宙塵・微 生物の捕集: たんぽぽ」の進行状況 ", 
+    "Author": "山岸 明彦(東薬大),橋本 博文(JAXA),矢野 創(JAXA),今井 栄一(長岡技大),河口優子(東薬大),田端 誠(千葉大),横堀 伸一(東薬大),三田 肇(福岡工大),藪田 ひかる(大阪大),小林 憲正(横国大),東出 真 澄(JAXA),河合 秀幸(千葉大)",
+    "Note": "", 
+    "Jounal": "宇宙環境利用シンポジウム 第30回： 平成27年度\nSpace Utilization Research, Vol. 30 2015: Proceedings of The Thirtieth Space Utilization Symposium", 
+    "ID": "24"
+  }, 
+  {
+    "ReleaseDate": "2015/10/1", 
+    "DOI": "https://doi.org/10.1299/transjsme.15-00538", 
+    "URL": "https://www.jstage.jst.go.jp/article/transjsme/82/835/82_15-00538/_pdf", 
+    "Paper Title": "たんぽぽミッションにおける機械式宇宙温度計の開発 ", 
+    "Author": "橋本 博文,今井 栄一,矢野 創,渡辺 英幸,横堀 伸一,山岸 明彦",
+    "Note": "", 
+    "Jounal": "J-STAGE 2016 Volume 82 Issue 835 Pages 15-00538", 
+    "ID": "25"
+  }, 
+  {
+    "ReleaseDate": "16-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/handle/a-is/560213", 
+    "Paper Title": "たんぽぽ計画の進行状況：その全体像並びに微生物捕集及び曝露実験について", 
+    "Author": "横堀 伸一,河口 優子,田端 誠,河合 秀幸,奥平 恭子,今井 栄一,富田-横谷 香織,林 宣宏,鳴海 一成,小林 憲正,三田 肇,薮田 ひかる,癸生川 陽子,佐々木 聰,石橋 之宏,東出 真澄,橋本 博文,矢野 創,山岸 明彦", 
+    "Note": "", 
+    "Jounal": "第16回宇宙科学シンポジウム 講演集\nProceedings of the 16th Space Science Symposium", 
+    "ID": "26"
+  }, 
+  {
+    "ReleaseDate": "16-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/handle/a-is/560267", 
+    "Paper Title": "たんぽぽ計画におけるアミノ酸とその前駆体の地球低周回軌道曝露実験：実験開始と回収後の分析計画", 
+    "Author": "小林 憲正,三田 肇,癸生川 陽子,中川 和道,今井 栄一,矢野 創,橋本 博文,河口 優子,横堀 伸一,山岸 明彦,たんぽぽWG\n", 
+    "Note": "", 
+    "Jounal": "第16回宇宙科学シンポジウム 講演集\nProceedings of the 16th Space Science Symposium", 
+    "ID": "27"
+  }, 
+  {
+    "ReleaseDate": "2016/3/10", 
+    "DOI": "-", 
+    "URL": "https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=162649&item_no=1&attribute_id=1&file_no=1", 
+    "Paper Title": "光学顕微鏡断層撮影に基づくシリカエアロゲル中にできた孔の3D 形状復元 ", 
+    "Author": "佐藤 慎也,矢口 勇一,奥平 恭子,出村 裕英,たんぽぽ計画チーム,会津大学大学院,会津大学情報システム学部門, 会津大学,CAIST/宇宙情報科学クラスター,東京薬科大学", 
+    "Note": "", 
+    "Jounal": "情報処理学会第 78 回全国大会 3N-04雑誌名第78回全国大会講演論文集\n巻2016\n号1\nページ237 - 238\n発行年2016-03-10", 
+    "ID": "28"
+  }, 
+  {
+    "ReleaseDate": "16-Feb", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/572648/1/SA6000055042.pdf", 
+    "Paper Title": "たんぽぽ捕集パネルに対する 衝突頻度予測と 地上実験条件の検討 ", 
+    "Author": "栗原愛美(法政大院),東出真澄(JAXA),尾田佳至朗,新井和吉(法政大),平井隆之(JAXA),矢野創(ISAS/JAXA),山岸明彦(東薬大) \n", 
+    "Note": "", 
+    "Jounal": "平成27年度宇宙科学に関する室内実験シンポジウム 講演集\nProceedings of 2016 Symposium on Laboratory Experiment for Space Science", 
+    "ID": "29"
+  }, 
+  {
+    "ReleaseDate": "2016 年 31 巻 3 号 p. 169-175", 
+    "DOI": "10.11203/jar.31.169", 
+    "URL": "https://www.jstage.jst.go.jp/article/jar/31/3/31_169/_pdf", 
+    "Paper Title": "宇宙塵サンプルリターンと微小重力地質学", 
+    "Author": "矢野 創", 
+    "Note": "", 
+    "Jounal": "J-STAGE 2016 Volume 31 Issue 3 Pages 169-175", 
+    "ID": "30"
+  }, 
+  {
+    "ReleaseDate": "June 1-8, 2008", 
+    "DOI": "-", 
+    "URL": "http://www.ls.toyaku.ac.jp/~lcb-7/tanpopo/pdf/ISTS2008-k-05.pdf", 
+    "Paper Title": "TANPOPO: Astrobiology Exposure and Micrometeoroid Capture Experiments", 
+    "Author": "Akihiko YAMAGISHI, Hajime YANO, Kyoko OKUDAIRA, Kensei KOBAYASHI, Shin-ichi YOKOBORI, Makoto TABATA, Hideyuki KAWAI, Masamichi YAMASHITA, Hirofumi HASHIMOTO, Hiroshi NARAOKA, Hajime MITA ,Preprints of 26th International Symposium on Space Technology and Science. ", 
+    "Note": "", 
+    "Jounal": "", 
+    "ID": "31"
+  }, 
+  {
+    "ReleaseDate": "Vol.21 No.3 (2007)", 
+    "DOI": "-", 
+    "URL": "http://www.ls.toyaku.ac.jp/~lcb-7/tanpopo/pdf/BiolScieSpace2167752007.pdf", 
+    "Paper Title": "TANPOPO:有機物と微生物の宇宙空間曝露と微隕石及び微生物の捕集実験", 
+    "Author": "山岸明彦,矢野創,奥平恭子,小林憲正,横堀伸一,田端誠,河合秀幸,Biological", 
+    "Note": "Sciences in Space: 67-75\n", 
+    "Jounal": "Biological Sciences in Space, Vol.21 No.3 (2007): 67-75", 
+    "ID": "32"
+  }, 
+  {
+    "ReleaseDate": "5-Oct-18", 
+    "DOI": "-", 
+    "URL": "https://www.liebertpub.com/doi/10.1089/ast.2017.1751", 
+    "Paper Title": "Environmental Data and Survival Data of Deinococcus aetherius from the Exposure Facility of the Japan Experimental Module of the International Space Station Obtained by the Tanpopo Mission", 
+    "Author": "Akihiko Yamagishi,Yuko Kawaguchi,Hirofumi Hashimoto,Hajime Yano,Eiichi Imai,Satoshi Kodaira,Yukio Uchihori,Kazumichi Nakagawa", 
+    "Note": "", 
+    "Jounal": "AstrobiologyVol. 18, No. 11", 
+    "ID": "33"
+  }, 
+  {
+    "ReleaseDate": "18-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/876449/1/SA6000118049.pdf", 
+    "Paper Title": "たんぽぽ計画: 1年間宇宙曝露したアミノ酸関連試料の分析", 
+    "Author": "小林 憲正, 三田 肇, 癸生川 陽子, 中川 和道, 青木 涼平, 原田 拓, 三澤 柊介, 佐藤 智仁, 内藤 敬介, 横尾 卓哉, 峰松 沙綾, 石山 公啓, 今井 栄一, 矢野 創, 橋本 博文, 横堀 伸一, 山岸 明彦, たんぽぽ研究チーム,横浜国大,福岡工大,神戸大,長岡技科大,JAXA/宇宙研,東京薬大", 
+    "Note": "", 
+    "Jounal": "第18回宇宙科学シンポジウム 講演集\nProceedings of the 18th Space Science Symposium", 
+    "ID": "34"
+  }, 
+  {
+    "ReleaseDate": "2018 年 66 巻 9 号 p. 263-266", 
+    "DOI": "https://doi.org/10.14822/kjsass.66.9_263", 
+    "URL": "https://www.jstage.jst.go.jp/article/kjsass/66/9/66_263/_article/-char/ja/", 
+    "Paper Title": "国際宇宙ステーション曝露部を利用した惑星間での微生物の移動検証（たんぽぽ計画）", 
+    "Author": "河口 優子", 
+    "Note": "", 
+    "Jounal": "J-STAGE 2018 年 66 巻 9 号 p. 263-266", 
+    "ID": "35"
+  }, 
+  {
+    "ReleaseDate": "2018 年 66 巻 6 号 p. 173-179", 
+    "DOI": "https://doi.org/10.14822/kjsass.66.6_17", 
+    "URL": "https://www.jstage.jst.go.jp/article/kjsass/66/6/66_173/_article/-char/ja/", 
+    "Paper Title": "有機物・微生物の宇宙曝露と宇宙塵・微生物の捕集（たんぽぽ）計画", 
+    "Author": "山岸 明彦,河口 優子,横堀 伸一,橋本 博文,矢野 創,今井 栄一,田端 誠,小林 憲正,三田 肇", 
+    "Note": "", 
+    "Jounal": "J-STAGE 2018 年 66 巻 6 号 p. 173-179", 
+    "ID": "36"
+  }, 
+  {
+    "ReleaseDate": "28-Aug-18", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-50257-1_83-1", 
+    "Paper Title": "Silica Aerogels: A Review of Molecular Dynamics Modelling and Characterization of the Structural, Thermal, and Mechanical Properties", 
+    "Author": "Jingjie Yeo,Zishun Liu,Teng Yong Ng", 
+    "Note": "Design of a Silica-aerogel-based Cosmic Dust Collector for the Tanpopo Mission Aboard the International Space Station から引用", 
+    "Jounal": "Handbook of Materials Modeling pp 1-21", 
+    "ID": "37"
+  }, 
+  {
+    "ReleaseDate": "2014 年 12 巻 ists29 号 p. Pk_29-Pk_34", 
+    "DOI": "https://doi.org/10.2322/tastj.12.Pk_29", 
+    "URL": "https://www.jstage.jst.go.jp/article/tastj/12/ists29/12_Pk_29/_article/-char/ja/", 
+    "Paper Title": "Design of a Silica-aerogel-based Cosmic Dust Collector for the Tanpopo Mission Aboard the International Space Station", 
+    "Author": "Makoto TABATA,Eiichi IMAI,Hajime YANO,Hirofumi HASHIMOTO,Hideyuki KAWAI,Yuko KAWAGUCHI,Kensei KOBAYASHI,Hajime MITA,Kyoko OKUDAIRA,Satoshi SASAKI,Hikaru YABUTA,Shin-ichi YOKOBORI,Akihiko YAMAGISHI", 
+    "Note": "", 
+    "Jounal": "J-STAGE 2014 年 12 巻 ists29 号 p. Pk_29-Pk_34", 
+    "ID": "38"
+  }, 
+  {
+    "ReleaseDate": "18-Feb", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/883145/1/SA6000123045.pdf", 
+    "Paper Title": "超高速微粒子衝突捕獲による超低密度二層型シリカエアロゲルの応答", 
+    "Author": "田端 誠,長谷川 直,千葉大学大学院理学研究院,宇宙航空研究開発機構宇宙科学研究所(JAXA)(ISAS)", 
+    "Note": "", 
+    "Jounal": "平成29年度宇宙科学に関する室内実験シンポジウム 講演集\nProceedings of 2018 Symposium on Laboratory Experiment for Space Science", 
+    "ID": "39"
+  }, 
+  {
+    "ReleaseDate": "18-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/handle/a-is/876494", 
+    "Paper Title": "\"たんぽぽ計画\"における陸棲藍藻Nostoc sp. HK-01の乾燥藻体", 
+    "Author": "Tomita Yokotani, Kaori Kimura, Shunta Ajioka, Reiko Ong, Midori Katoh, Hiroshi Abe, Tomoko Sonoike, Kintake Ohmori, Masayuki Yamagishi, Akihiko Tanpopo WG", 
+    "Note": "", 
+    "Jounal": "第18回宇宙科学シンポジウム 講演集\nProceedings of the 18th Space Science Symposium", 
+    "ID": "40"
+  }, 
+  {
+    "ReleaseDate": "18-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/handle/a-is/876456", 
+    "Paper Title": "たんぽぽ計画：1年目捕獲試料の初期解析結果", 
+    "Author": "Yabuta Hikaru, Okudaira Kyoko, Kebukawa Yoko, Mita Hajime, Tsuchiyama Akira, Ito Motoo, Suga Hiroki, Matsuno Junya, Takahashi Yoshio, Kobayashi Kensei, Yano Hajime, Yamagishi Akihiko, Tanpopo Team", 
+    "Note": "", 
+    "Jounal": "第18回宇宙科学シンポジウム 講演集\nProceedings of the 18th Space Science Symposium", 
+    "ID": "41"
+  }, 
+  {
+    "ReleaseDate": "18-Jan", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/bitstream/a-is/876465/1/SA6000118050.pdf", 
+    "Paper Title": "宇宙曝露したDeinococcus属細菌の生存とDNA損傷の解明 (たんぽぽ計画)", 
+    "Author": "河口 優子, 澁谷 美緒, 林 梨沙子, 藤原 大佑, 矢田部 純, 谷口 紀恵, 青木 元秀, 鳴海 一成, 橋本 博文, 横堀 伸一, 山岸 明彦", 
+    "Note": "", 
+    "Jounal": "第18回宇宙科学シンポジウム 講演集\nProceedings of the 18th Space Science Symposium", 
+    "ID": "42"
+  }, 
+  {
+    "ReleaseDate": "2018/10/04 Web 公開", 
+    "DOI": "-", 
+    "URL": "https://www.wakusei.jp/meetings/fall_meeting/2018/fallmeeting_2018_abst.pdf", 
+    "Paper Title": "星間氷環境下での複雑態アミノ酸前駆体の生成とその安定性 ", 
+    "Author": "小林憲正,佐藤智仁,浅野伸哉,倉本想士,癸生川陽子,三田肇,中川和道,吉田聡,福田一志,小栗慶之,依田功,神田一浩 ,山岸明彦 ,たんぽぽ RT ,横浜国大,福岡工大,神戸大,量研,東工大,兵庫県立大,東薬大,JAXA/ISAS", 
+    "Note": "J6 に記載", 
+    "Jounal": "", 
+    "ID": "43"
+  }, 
+  {
+    "ReleaseDate": "2018/10/04 Web 公開", 
+    "DOI": "-", 
+    "URL": "https://www.wakusei.jp/meetings/fall_meeting/2018/fallmeeting_2018_abst.pdf", 
+    "Paper Title": "国際宇宙ステーション搭載シリカエアロゲルで捕獲された微粒子の高速衝突トラックの3次元形状微粒子の高速衝突トラックの3次元形状", 
+    "Author": "西瑞穂,土`山明,矢野創,薮田ひかる,奥平恭子,松野淳也,上椙真之,上杉健太郎,中野司,野口高明,三田肇,山岸明彦,京都大学理学研究科,宇宙航空研究開発機構,広島大学理学研究科,会津大学企画運営室,JASRI/SPring-8,産業技術総合研究所,九州大学基幹教育院,福岡工業大学工学部生命環境科学科,東京薬科大学生命科学部分子生命科学科", 
+    "Note": "P35 に記載", 
+    "Jounal": "", 
+    "ID": "44"
+  }, 
+  {
+    "ReleaseDate": "26-Feb-04", 
+    "DOI": "10.1023/B:AERO.0000032948.84077.12", 
+    "URL": "https://pdfs.semanticscholar.org/d2f3/a83d5a9f991575f41f238016f1faa2723620.pdf", 
+    "Paper Title": "Terrestrial microorganisms at an altitude of 20,000 m in Earth’s atmosphere ", 
+    "Author": "Dale W. Griffin ", 
+    "Note": "引用の可能性あり\n", 
+    "Jounal": "Aerobiologia\nJune 2004, Volume 20, Issue 2, pp 135–140", 
+    "ID": "45"
+  }, 
+  {
+    "ReleaseDate": "2018/11/24", 
+    "DOI": "-", 
+    "URL": "https://repository.exst.jaxa.jp/dspace/handle/a-is/900409", 
+    "Paper Title": "星間での有機物生成･変成と地球への伝搬：地上実験と宇宙実験による検証", 
+    "Author": "小林憲正,柴田裕実,田村元秀,高山 健,金子竹男,福田一志,小栗慶之,吉田 聡,神田一浩,山岸明彦", 
+    "Note": "", 
+    "Jounal": "", 
+    "ID": "46"
+  }, 
+  {
+    "ReleaseDate": "unknown", 
+    "DOI": "-", 
+    "URL": "https://www.hou.usra.edu/meetings/lpsc2017/eposterindex.cfm", 
+    "Paper Title": "In-Orbit Operation and Initial Sample Analysis and Curation Results for the First Year Collection Samples of the Tanpopo Project", 
+    "Author": "J. Imani,D. Horikawa,K. Arai,K. Fujishima,H. Hashimoto,M. Higashide,E. Imai,Y. Ishibashi,Y. Kawaguchi,H. Kawai,Y. Kebukawa,K. Kobayashi,K. Kobunai,S. Kodaira,Y. Kurosu,H. Mita,Y. Oda,K. Okudaira,T. Ozawa,M. Tabata,N. Takizawa,M. Tomita,A. Tsuchiyama,Y. Uchihori,H. Yabuta,Y. Yaguchi,S. Yokobori,A. Yamagishi,Tanpopo Project Team", 
+    "Note": "", 
+    "Jounal": "", 
+    "ID": "47"
+  }, 
+  {
+    "ReleaseDate": "2-Oct-18", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/chapter/10.1007/978-3-319-96175-0_5", 
+    "Paper Title": "A Systematic Way to Life Detection: Combining Field, Lab and Space Research in Low Earth Orbit", 
+    "Author": "de Vera,Jean-Pierre", 
+    "Note": "", 
+    "Jounal": "Biosignatures for Astrobiology pp 111-122", 
+    "ID": "48"
+  }, 
+  {
+    "ReleaseDate": "2016/5/1", 
+    "DOI": "10.1089/ast.2015.1415", 
+    "URL": "http://adsabs.harvard.edu/abs/2016AsBio..16..363K", 
+    "Paper Title": "Investigation of the Interplanetary Transfer of Microbes in the Tanpopo Mission at the Exposed Facility of the International Space Station", 
+    "Author": "Kawaguchi, Yuko,Yokobori, Shin-ichi,Hashimoto, Hirofumi,Yano, Hajime,Tabata, Makoto,Kawai, Hideyuki,Yamagishi, Akihiko", 
+    "Note": "Astrobiology, Volume 16, Issue 5, 2016, pp.363-376", 
+    "Jounal": "Astrobiology, Volume 16, Issue 5, 2016, pp.363-376", 
+    "ID": "49"
+  }, 
+  {
+    "ReleaseDate": "2018/7/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2018cosp...42E3749Y", 
+    "Paper Title": "Intact Capture Sample Return and Initial Sample Analyses of Meteoroids and Earth Orbiting Microparticles from LEO by the Tanpopo Mission", 
+    "Author": "Yano, Hajime,Mita, Hajime,Okudaira, Kyoko,Yamagishi, Akihiko,Sasaki, Satoshi,Imai, Eiichi,Kebukawa, Yoko,Tabata, Makoto,Imani, Junya,Kawaguchi, Yuko", 
+    "Note": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F3.1-4-18.", 
+    "Jounal": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F3.1-4-18.", 
+    "ID": "50"
+  }, 
+  {
+    "ReleaseDate": "2018/7/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2018cosp...42E3731Y", 
+    "Paper Title": "Fist Year Results of Tanpopo: Capture and Exposure Experiment of Micrometeorite and Microbes on Exposure Facility of International Space Station", 
+    "Author": "Yamagishi, Akihiko,Hashimoto, Hirofumi,Kobayashi, Kensei,Mita, Hajime,Yokobori, Shin-ichi,Higashide, Masumi,Imai, Eiichi,Yano, Hajime,Tabata, Makoto,Yabuta, Hikaru", 
+    "Note": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F3.1-1-18.", 
+    "Jounal": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F3.1-1-18.", 
+    "ID": "51"
+  }, 
+  {
+    "ReleaseDate": "2018/7/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2018cosp...42E1788K", 
+    "Paper Title": "Astrobiology Experiments in Earth Orbit to Examine Formation, Alteration and Delivery of Organic Compounds: Results of the Tanpopo Mission and Future Prospects", 
+    "Author": "Kobayashi, Kensei,Hashimoto, Hirofumi,Mita, Hajime,Yokobori, Shin-ichi,Yamagishi, Akihiko,Sakon, Itsuki,Bessho, Yoshitaka,Nakagawa, Kazumichi,Kebukawa, Yoko,Yano, Hajime", 
+    "Note": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F3.1-2-18.", 
+    "Jounal": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F3.1-2-18.", 
+    "ID": "52"
+  }, 
+  {
+    "ReleaseDate": "2018/7/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2018cosp...42E1758K", 
+    "Paper Title": "Functional substances which contribute to dry heat tolerance of a terrestrial cyanobacterium {it Nostoc} sp. HK-01", 
+    "Author": "Kimura, Shunta,Tomita-Yokotani, Kaori,Suzuki, Toshisada,Ong, Midori", 
+    "Note": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F4.1-2-18.", 
+    "Jounal": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F4.1-2-18.", 
+    "ID": "53"
+  }, 
+  {
+    "ReleaseDate": "2018/7/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2018cosp...42E1714K", 
+    "Paper Title": "Survival and DNA damage of cell-aggregate of Deinococcus spp. exposed to space for two-years in Tanpopo mission", 
+    "Author": "Kawaguchi, Yuko,Hashimoto, Hirofumi,Yokobori, Shin-ichi,Yamagishi, Akihiko,Shibuya, Mio,Kinoshita, Iori,Hayashi, Risako,Yatabe, Jun,Narumi, Issay,Fujiwara, Daisuke,Murano, Yuka", 
+    "Note": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F3.1-5-18.", 
+    "Jounal": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F3.1-5-18.", 
+    "ID": "54"
+  }, 
+  {
+    "ReleaseDate": "2017/12/1", 
+    "DOI": "10.1371/journal.pone.0189381", 
+    "URL": "http://adsabs.harvard.edu/abs/2017PLoSO..1289381O", 
+    "Paper Title": "Proteometabolomic response of Deinococcus radiodurans exposed to UVC and vacuum conditions: Initial studies prior to the Tanpopo space mission", 
+    "Author": "Ott, Emanuel,Kawaguchi, Yuko,Kölbl, Denise,Chaturvedi, Palak,Nakagawa, Kazumichi,Yamagishi, Akihiko,Weckwerth, Wolfram,Milojevic, Tetyana", 
+    "Note": "PLOS ONE, Edited by Andrzej T Slominski, vol. 12, issue 12, p. e0189381", 
+    "Jounal": "PLOS ONE, Edited by Andrzej T Slominski, vol. 12, issue 12, p. e0189381", 
+    "ID": "55"
+  }, 
+  {
+    "ReleaseDate": "2017/7/1", 
+    "DOI": "10.1007/s11214-017-0365-5", 
+    "URL": "http://adsabs.harvard.edu/abs/2017SSRv..209...83C", 
+    "Paper Title": "Space as a Tool for Astrobiology: Review and Recommendations for Experimentations in Earth Orbit and Beyond", 
+    "Author": "Cottin, Hervé,Kotler, Julia Michelle,Billi, Daniela,Cockell, Charles,Demets, René,Ehrenfreund, Pascale,Elsaesser, Andreas,d'Hendecourt, Louis,van Loon, Jack J. W. A.,Martins, Zita,Onofri, Silvano,Quinn, Richard C.,Rabbow, Elke,Rettberg, Petra,Ricco, Antonio J.,Slenzka, Klaus,de la Torre, Rosa,de Vera, Jean-Pierre,Westall, Frances,Carrasco, Nathalie,Fresneau, Aurélien,Kawaguchi, Yuko,Kebukawa, Yoko,Nguyen, Dara,Poch, Olivier,Saiagh, Kafila,Stalport, Fabien,Yamagishi, Akihiko,Yano, Hajime,Klamm, Benjamin A.", 
+    "Note": "Space Science Reviews, Volume 209, Issue 1-4, pp. 83-181 (SSRv Homepage)", 
+    "Jounal": "Space Science Reviews, Volume 209, Issue 1-4, pp. 83-181 (SSRv Homepage)", 
+    "ID": "56"
+  }, 
+  {
+    "ReleaseDate": "2018/7/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2018cosp...42E3749Y", 
+    "Paper Title": "Intact Capture Sample Return and Initial Sample Analyses of Meteoroids and Earth Orbiting Microparticles from LEO by the Tanpopo Mission", 
+    "Author": "Yano, Hajime,Mita, Hajime,Okudaira, Kyoko,Yamagishi, Akihiko,Sasaki, Satoshi,Imai, Eiichi,Kebukawa, Yoko,Tabata, Makoto,Imani, Junya,Kawaguchi, Yuko", 
+    "Note": "42nd COSPAR Scientific Assembly. Held 14-22 July 2018, in Pasadena, California, USA, Abstract id. F3.1-4-18.", 
+    "Jounal": "", 
+    "ID": "57"
+  }, 
+  {
+    "ReleaseDate": "2019", 
+    "DOI": "10.2343/geochemj.2.0549", 
+    "URL": "https://www.researchgate.net/publication/330520660_STXM-XANES_analyses_of_Murchison_meteorite_samples_captured_by_aerogel_after_hypervelocity_impacts_A_potential_implication_of_organic_matter_degradation_for_micrometeoroid_collection_experiments", 
+    "Paper Title": "STXM-XANES analyses of Murchison meteorite samples captured by aerogel after hypervelocity impacts: A potential implication of organic matter degradation for micrometeoroid collection experiments", 
+    "Author": "YOKO KEBUKAWA,KYOKO OKUDAIRA,HIKARU YABUTA,SUNAO HASEGAWA,MAKOTO TABATA,YOSHIHIRO FURUKAWA,MOTOO ITO,AIKO NAKATO,A. L. DAVID KILCOYNE,KENSEI KOBAYASHI,SHIN-ICHI YOKOBORI,EIICHI IMAI,YUKO KAWAGUCHI,HAJIME YANO,AKIHIKO YAMAGISHI", 
+    "Note": "Geochemical Journal, Vol. 53, pp. 53 to 67", 
+    "Jounal": "Geochemical journal GJ 53(1):53-67 · January 2019", 
+    "ID": "58"
+  }, 
+  {
+    "ReleaseDate": "2017/7/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2017SSRv..209...83C", 
+    "Paper Title": "Space as a Tool for Astrobiology: Review and Recommendations for Experimentations in Earth Orbit and Beyond", 
+    "Author": "Cottin, Hervé,Kotler, Julia Michelle,Billi, Daniela,Cockell, Charles,Demets, René,Ehrenfreund, Pascale,Elsaesser, Andreas,d'Hendecourt, Louis,van Loon, Jack J. W. A.,Martins, Zita,Onofri, Silvano,Quinn, Richard C.,Rabbow, Elke,Rettberg, Petra,Ricco, Antonio J.,Slenzka, Klaus,de la Torre, Rosa,de Vera, Jean-Pierre,Westall, Frances,Carrasco, Nathalie,Fresneau, Aurélien,Kawaguchi, Yuko,Kebukawa, Yoko,Nguyen, Dara,Poch, Olivier,Saiagh, Kafila,Stalport, Fabien,Yamagishi, Akihiko,Yano, Hajime,Klamm, Benjamin A.", 
+    "Note": "Space Science Reviews, Volume 209, Issue 1-4, pp. 83-181", 
+    "Jounal": "", 
+    "ID": "59"
+  }, 
+  {
+    "ReleaseDate": "2017/7/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2017LPICo1967.4131K", 
+    "Paper Title": "Stability of Amino Acid-Related Compounds in Space — Preliminary Results of the Tanpopo Organic Exposure Experiment", 
+    "Author": "Kobayashi, K.,Mita, H.,Kebukawa, Y.,Nakagawa, K.,Ishiyama, K.,Aoki, R.,Harada, T.,Misawa, S.,Uchimura, E.,Sato, T.,Naito, K.,Minematsu, S.,Imai, E.,Yano, H.,Hashimoto, H.,Yokobori, S.,Yamagishi, A.", 
+    "Note": "XVIIIth International Conference on the Origin of Life, Proceedings of the conference held 16-21 July, 2017 in San Diego, California. LPI Contribution No. 1967, 2017, id.4131", 
+    "Jounal": "", 
+    "ID": "60"
+  }, 
+  {
+    "ReleaseDate": "03/2017", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2017LPI....48.3040Y", 
+    "Paper Title": "In-Orbit Operation and Initial Sample Analysis and Curation Results for the First Year Collection Samples of the Tanpopo Project", 
+    "Author": "Yano, H.,Sasaki, S.,Imani, J.,Horikawa, D.,Arai, K.,Fujishima, K.,Hashimoto, H.,Higashide, M.,Imai, E.,Ishibashi, Y.,Kawaguchi, Y.,Kawai, H.,Kebukawa, Y.,Kobayashi, K.,Kobunai, K.,Kodaira, S.,Kurosu, Y.,Mita, H.,Oda, Y.,Okudaira, K.,Ozawa, T.,Tabata, M.,Takizawa, N.,Tomita, M.,Tsuchiyama, A.,Uchihori, Y.,Yabuta, H.,Yaguchi, Y.,Yokobori, S.,Yamagishi, A.,Tanpopo Project Team", 
+    "Note": "48th Lunar and Planetary Science Conference, held 20-24 March 2017, at The Woodlands, Texas. LPI Contribution No. 1964, id.3040", 
+    "Jounal": "48th Lunar and Planetary Science Conference, held 20-24 March 2017, at The Woodlands, Texas. LPI Contribution No. 1964, id.3040", 
+    "ID": "61"
+  }, 
+  {
+    "ReleaseDate": "2016/7/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2016cosp...41E1003K", 
+    "Paper Title": "Utilization of a terrestrial cyanobacterium, Nostoc sp. HK-01, for space habitation", 
+    "Author": "Kimura, Shunta,Tomita-Yokotani, Kaori,Arai, Mayumi,Yamashita, Masamichi,Katoh, Hiroshi,Ajioka, Reiko,Inoue, Kotomi", 
+    "Note": "41st COSPAR Scientific Assembly, abstracts from the meeting that was to be held 30 July - 7 August at the Istanbul Congress Center (ICC), Turkey, but was cancelled. See http://cospar2016.tubitak.gov.tr/en/, Abstract id. F4.1-7-16.", 
+    "Jounal": "41st COSPAR Scientific Assembly, abstracts from the meeting that was to be held 30 July - 7 August at the Istanbul Congress Center (ICC), Turkey, but was cancelled. See http://cospar2016.tubitak.gov.tr/en/, Abstract id. F4.1-7-16.", 
+    "ID": "62"
+  }, 
+  {
+    "ReleaseDate": "2016/5/1", 
+    "DOI": "-", 
+    "URL": "http://adsabs.harvard.edu/abs/2016AsBio..16..363K", 
+    "Paper Title": "Investigation of the Interplanetary Transfer of Microbes in the Tanpopo Mission at the Exposed Facility of the International Space Station", 
+    "Author": "Kawaguchi, Yuko,Yokobori, Shin-ichi,Hashimoto, Hirofumi,Yano, Hajime,Tabata, Makoto,Kawai, Hideyuki,Yamagishi, Akihiko", 
+    "Note": "Astrobiology, Volume 16, Issue 5, 2016, pp.363-376", 
+    "Jounal": "Astrobiology, Volume 16, Issue 5, 2016, pp.363-376", 
+    "ID": "63"
+  }, 
+  {
+    "ReleaseDate": "30-Oct-14", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/article/10.1007/s11084-015-9423-8", 
+    "Paper Title": "Silica Aerogel for Capturing Intact Interplanetary Dust Particles for the Tanpopo Experiment", 
+    "Author": "Makoto Tabata,Hajime Yano,Hideyuki Kawai,Eiichi Imai,Yuko Kawaguchi,Hirofumi Hashimoto,Akihiko Yamagishi", 
+    "Note": "", 
+    "Jounal": "Origins of Life and Evolution of Biospheres\nJune 2015, Volume 45, Issue 1–2, pp 225–229", 
+    "ID": "64"
+  }, 
+  {
+    "ReleaseDate": "First Online:\n01 August 2010", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/article/10.1007/s11084-010-9215-0", 
+    "Paper Title": "Special Issue: Abstracts from the 9th European Workshop on Astrobiology, Brussels, October 12–14, 2009", 
+    "Author": "", 
+    "Note": "", 
+    "Jounal": "Origins of Life and Evolution of Biospheres\nDecember 2010, Volume 40, Issue 6, pp 499–607", 
+    "ID": "65"
+  }, 
+  {
+    "ReleaseDate": "First Online:\n26 May 2009", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/article/10.1007/s11084-009-9164-7", 
+    "Paper Title": "SPECIAL ISSUE: ABSTRACTS FROM THE 2008 ISSOL MEETING", 
+    "Author": "", 
+    "Note": "", 
+    "Jounal": "Origins of Life and Evolution of Biospheres\nAugust 2009, Volume 39, Issue 3–4, pp 179–392", 
+    "ID": "66"
+  }, 
+  {
+    "ReleaseDate": "First Online:\n31 January 2009", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/article/10.1007/s11084-008-9155-0", 
+    "Paper Title": "Special Issue: Abstracts from the Eighth European Workshop on Astrobiology, Neuchâtel, Switzerland, 1-3 September, 2008", 
+    "Author": "", 
+    "Note": "", 
+    "Jounal": "Origins of Life and Evolution of Biospheres\nFebruary 2009, Volume 39, Issue 1, pp 1–89", 
+    "ID": "67"
+  }, 
+  {
+    "ReleaseDate": "Received:\n10 December 2013\nAccepted:\n26 June 2014", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/article/10.1007/s11084-014-9361-x", 
+    "Paper Title": "Fluorescence imaging of microbe-containing particles shot from a two-stage Light-gas gun into an aerogel", 
+    "Author": "Yuko Kawaguchi,Tomohiro Sugino,Makoto Tabata,Kyoko Okudaira,Eichi Imai,Hajime Yano,Sunao Hasegawa,Hirofumi Hashimoto,Hikaru Yabuta,Kensei Kobayashi,Hideyuki Kawai,Hajime Mita,Shin-ichi Yokobori,Akihiko Yamagishi", 
+    "Note": "", 
+    "Jounal": "Origins of Life and Evolution of Biospheres\nFebruary 2014, Volume 44, Issue 1, pp 43–60", 
+    "ID": "68"
+  }, 
+  {
+    "ReleaseDate": "First Online:\n08 August 2018", 
+    "DOI": "-", 
+    "URL": "https://link.springer.com/chapter/10.1007/978-981-13-1313-4_2", 
+    "Paper Title": "Spin-Off Application of Silica Aerogel in Space: Capturing Intact Cosmic Dust in Low-Earth Orbits and Beyond", 
+    "Author": "Makoto Tabata,on behalf of the Tanpopo Team", 
+    "Note": "", 
+    "Jounal": "International conference on Technology and Instrumentation in Particle Physics\nTIPP 2017: Proceedings of International Conference on Technology and Instrumentation in Particle Physics 2017 pp 8-11", 
+    "ID": "69"
+  }
+]
