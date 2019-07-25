@@ -11,8 +11,16 @@
         <title>test_tanpopo_web</title>
     </head>
         <body>
-            <select id='year'></select>
-            <input type="button" value="select" onclick="yearChange()">
+            <div id='searchTitle'>タイトルで探す</div>
+            <div id='searchTitleInput' style='display:none;'>
+                <input type="text" id='titleword' style="width:500px; font:24px;">
+                <input type="button" value="select" onclick="searchTitle()">
+            </div>
+            <div id='searchYear'>年度で探す</div>
+            <div id='searchYearInput' style='display:none;'>
+                <select id='year'></select><input type="button" value="select" onclick="yearChange()">
+            </div>
+            <p>選択してもタイトルと年度の表は表示されるけれど、各論文の詳細の表は表示することができない。</br>→ロード直後なら表示することができたので、それに関係がある？</p>
             <table id='testTable'></table>
         </body>
     </html>

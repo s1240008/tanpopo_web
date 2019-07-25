@@ -53,13 +53,10 @@ var searchYear=function(){
 }
 
 var addYearSelect = function(){
-    //console.log(dataYear);
-    
     for(i in dataYear){
         if(i==0)yearSet.push(dataYear[i].year);
         else if(dataYear[i-1].year!==dataYear[i].year)yearSet.push(dataYear[i].year);
     }
-    //console.log(yearSet);
     var option = document.createElement('option');
     option.value = 'pleaseSelect';
     option.innerHTML = '選択してください';
@@ -76,6 +73,30 @@ var addYearSelect = function(){
     
 }
 
+var searchTitle = function(){
+    $('#testTable').children().remove();
+
+    var searchWord = document.getElementById('titleword').value;
+    var reTitle = new RegExp(searchWord,'gi');
+    //console.log("tanpopo".match(reTitle));
+    //|title|year|
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<th>title</th><td>year</td>';
+    document.getElementById('testTable').appendChild(tr);
+    
+    var title,year;
+    for(var i in dataYear){
+        var data = TanpopoProject20190411[dataYear[i].id-1];
+        title = data['Paper Title'];
+        year = dataYear[i].year;
+        //console.log(title.search(reTitle));
+        if(title.search(reTitle)>0){
+            addPaperTitleAndYear(data,title,year);
+            addPaperTable(data);
+        }
+    }
+}
+
 var yearChange= function(){
     var selectedYear = document.getElementById('year').value;
     $('#testTable').children().remove();
@@ -83,7 +104,7 @@ var yearChange= function(){
         makeTable();
     }
     else{
-      remakeTable(selectedYear);
+        remakeTable(selectedYear);
     }
 }
 
@@ -100,8 +121,6 @@ var remakeTable = function(selectedYear){
         title = data['Paper Title'];
         year = dataYear[i].year+'';
 
-        //console.log(year+' '+toString.call(year)+' '+selectedYear+' '+toString.call(selectedYear));
-        //|year|
         if(year===selectedYear){
             if(f==0){
                 addYear(year);
@@ -176,11 +195,22 @@ var addPaperTable = function(data){
 $(function(){
   $('.title').on('click',function(){
             var id =  $(this).attr("id");
-            $('#table'+id).slideToggle();
+            $('#table'+id).toggle();
             console.log(id);
     });
   });
 
+$(function(){
+  $('#searchTitle').on('click',function(){
+                 $('#searchTitleInput').toggle();
+                 });
+  });
+
+$(function(){
+  $('#searchYear').on('click',function(){
+                       $('#searchYearInput').toggle();
+                       });
+  });
 
 //その論文が出た雑誌(ジャーナル：学術論文)名（Science など）の号、年
 //DOI

@@ -35,3 +35,12 @@ th,td{
 }
 
 
+#searchTitle,#searchTitleInput{
+        border: solid cyan;
+        border-width: 0px 0px 0px 10px
+}
+
+#searchYear,#searchYearInput{
+    border: solid pink;
+    border-width: 0px 0px 0px 10px
+}
