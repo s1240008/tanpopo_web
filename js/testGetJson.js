@@ -1,3 +1,6 @@
+// 2019/08/01
+// kumagai masashi
+
 var TanpopoProject20190411;
 $.ajax({
         url     : '../js/editedTanpopoProject20190411_20190711.json',
