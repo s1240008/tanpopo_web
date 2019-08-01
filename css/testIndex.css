@@ -12,7 +12,7 @@
     font-weight:900;
 }
 
-#myTable1,th,td{
+th,td{
     border: solid yellowgreen;
 }
 
@@ -22,13 +22,6 @@ th{
     font-weight: 900;
 }
 
-#myTable1{
-    border-width: 3px;
-    border-radius: 10px;
-    border-spacing: 0;
-    margin: 10px 0px 0px 0px;
-}
-
 th,td{
     border-width: 2px;
     padding: 0px 10px;
@@ -36,11 +29,51 @@ th,td{
 
 
 #searchTitle,#searchTitleInput{
-        border: solid cyan;
-        border-width: 0px 0px 0px 10px
+    font-weight:900;
+    padding-left:10px;
+    border: solid cyan;
+    border-width: 0px 0px 0px 10px
 }
 
 #searchYear,#searchYearInput{
+    font-weight:900;
+    padding-left:10px;
     border: solid pink;
     border-width: 0px 0px 0px 10px
 }
+
+/*side bar*/
+.page-main > aside{
+    background-color:rgba(0,255,0,1);
+    width:100px;
+    height:360px;
+    top:0;
+    right:-100px;
+    position:fixed;
+}
+
+.page-main > aside ul{
+    right:30px;
+    width:50px;
+    align:center;
+    color:rgba(255,255,255,1);;
+    position:absolute;
+}
+
+.page-main > aside li{
+    list-style: none;
+}
+
+.page-main > aside button{
+    background-color:rgba(0,255,0,1);
+    display:block;
+    position:absolute;
+    top:10px;
+    right:100px;
+    width:52px;
+    height:52px;
+    margin:0;
+    padding:0;
+    border:none;
+}
+

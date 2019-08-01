@@ -11,16 +11,22 @@
         <title>test_tanpopo_web</title>
     </head>
         <body>
+            <div id="top"></div>
+            <div class="page-main" id="page">
+            </div>
             <div id='searchTitle'>タイトルで探す</div>
             <div id='searchTitleInput' style='display:none;'>
-                <input type="text" id='titleword' style="width:500px; font:24px;">
-                <input type="button" value="select" onclick="searchTitle()">
+                <input type="text" id='titleword' style="width:500px; font:24px;" placeholder="キーワードを入力してください">
+                <input type="button" value="search" onclick="searchTitle()">
             </div>
             <div id='searchYear'>年度で探す</div>
             <div id='searchYearInput' style='display:none;'>
-                <select id='year'></select><input type="button" value="select" onclick="yearChange()">
+                <select id='year'></select><input type="button" value="search" onclick="yearChange()">
             </div>
-            <p>選択してもタイトルと年度の表は表示されるけれど、各論文の詳細の表は表示することができない。</br>→ロード直後なら表示することができたので、それに関係がある？</p>
+            <!--<p>選択してもタイトルと年度の表は表示されるけれど、各論文の詳細の表は表示することができない。
+            </br>タイトルの検索の際にも似たような現象が起きた。
+            </br>→ロード直後なら表示することができたので、それに関係がある？
+            </br>表の出し入れの切り替えはjQueryを使っているので、それに原因がある？</p>-->
             <table id='testTable'></table>
         </body>
     </html>

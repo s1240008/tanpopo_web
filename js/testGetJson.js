@@ -75,14 +75,12 @@ var addYearSelect = function(){
 
 var searchTitle = function(){
     $('#testTable').children().remove();
+    $('#page').children().remove();
 
     var searchWord = document.getElementById('titleword').value;
     var reTitle = new RegExp(searchWord,'gi');
+    var f=1
     //console.log("tanpopo".match(reTitle));
-    //|title|year|
-    var tr = document.createElement('tr');
-    tr.innerHTML = '<th>title</th><td>year</td>';
-    document.getElementById('testTable').appendChild(tr);
     
     var title,year;
     for(var i in dataYear){
@@ -91,15 +89,29 @@ var searchTitle = function(){
         year = dataYear[i].year;
         //console.log(title.search(reTitle));
         if(title.search(reTitle)>0){
+            if(f==1){
+                //|title|year|
+                var tr = document.createElement('tr');
+                tr.innerHTML = '<th>title</th><td>year</td>';
+                document.getElementById('testTable').appendChild(tr);
+                f=0;
+            }
             addPaperTitleAndYear(data,title,year);
             addPaperTable(data);
         }
     }
+    if(f==1){
+        var tr = document.createElement('tr');
+        tr.innerHTML = '<p style="color:red; font-size:30px; font-weight:900;">Don\'t found your search keyword in title</p>';
+        document.getElementById('testTable').appendChild(tr);
+    }
+    
 }
 
 var yearChange= function(){
     var selectedYear = document.getElementById('year').value;
-    $('#testTable').children().remove();
+    const rmTable = $('#testTable').children().remove();
+    $('#page').children().remove();
     if(selectedYear=='pleaseSelect'){
         makeTable();
     }
@@ -152,10 +164,12 @@ var makeTable = function(){
         addPaperTitleAndYear(data,title,year);
         addPaperTable(data);
     }
+    addSideBar();
 }
 
 var addYear = function(year){
     tr = document.createElement('tr');
+    tr.setAttribute('id',year);
     tr.innerHTML = '<th colspan=2>'+year+'</th>';
     document.getElementById('testTable').appendChild(tr);
 }
@@ -163,7 +177,7 @@ var addYear = function(year){
 var addPaperTitleAndYear = function(data,title,year){
     //|paper title|year|
     var tr = document.createElement('tr');
-    tr.innerHTML = '<th class=\'title\' id=\''+data['ID']+'\'>'+title+'</th><td>'+year+'</td>';
+    tr.innerHTML = '<th class=\'title\' id=\''+data['ID']+'\' onClick = toggleTable('+data['ID']+')>'+title+'</th><td>'+year+'</td>';
     document.getElementById('testTable').appendChild(tr);
 }
 
@@ -174,32 +188,34 @@ var addPaperTable = function(data){
     table.style.display = 'none';
     table.setAttribute('id','table'+data['ID']);
     table.setAttribute('class','testTable');
-    
+
     for(var j in dataTag){
+        table.innerHTML += '<tr style="width:80%;">';
         if(j==2){
             table.innerHTML +='<th>'+dataTag[j].charAt(6).toUpperCase()+dataTag[j].substring(7,dataTag[j].lenth)+'</th><td>'+data[dataTag[j]]+'</td>';
         }
         else if(j==4){
             table.innerHTML +='<th>'+dataTag[j].charAt(0).toUpperCase()+dataTag[j].substring(1,dataTag[j].lenth)+'</th><td>'+'<a href="'+data[dataTag[j]]+'" target="new">'+data[dataTag[j]]+'</a>'+'</td>';}
         else if(data[dataTag[j]]==""||data[dataTag[j]]=="-"){
-            table.innerHTML +='<th>'+dataTag[j].charAt(0).toUpperCase()+dataTag[j].substring(1,dataTag[j].lenth)+'</th><td style="color:red;,font-weight: 900;">NO DATA</td>';
+            table.innerHTML +='<th>'+dataTag[j].charAt(0).toUpperCase()+dataTag[j].substring(1,dataTag[j].lenth)+'</th><td style="color:red; font-weight: 900;">NO DATA</td>';
         }
         else{
             table.innerHTML +='<th>'+dataTag[j].charAt(0).toUpperCase()+dataTag[j].substring(1,dataTag[j].lenth)+'</th><td>'+data[dataTag[j]]+'</td>';
         }
+        table.innerHTML += '</tr>';
     }
     
     document.getElementById('testTable').appendChild(table);
 }
 
-$(function(){
+/*$(function(){
   $('.title').on('click',function(){
             var id =  $(this).attr("id");
             $('#table'+id).toggle();
             console.log(id);
     });
   });
-
+*/
 $(function(){
   $('#searchTitle').on('click',function(){
                  $('#searchTitleInput').toggle();
@@ -212,5 +228,60 @@ $(function(){
                        });
   });
 
+//<li><a href="#"><img src="img/01_aside.png"></a></li>
+
+var addSideBar = function(){
+    var div = document.createElement('aside');
+    div.setAttribute('class','page-main');
+    
+    var aside = document.createElement('aside');
+    aside.setAttribute('id','aside');
+    document.getElementById('page').appendChild(aside);
+
+    var ul = document.createElement('ul');
+    ul.setAttribute('id','sideBar');
+    document.getElementById('aside').appendChild(ul);
+
+    var button = document.createElement('button');
+    document.getElementById('aside').appendChild(button);
+
+    var li;
+    for(i in yearSet){
+        li = document.createElement('li');
+        if(yearSet[i]==null){
+            li.innerHTML += '<a href="#null">null</a>';
+        }
+        else{
+            li.innerHTML += '<a href="#'+yearSet[i]+'">'+yearSet[i]+'</a>';
+        }
+        document.getElementById('sideBar').appendChild(li);
+    }
+    li = document.createElement('li');
+    li.innerHTML += '<a href="#top">go top</a>';
+    document.getElementById('sideBar').appendChild(li);
+    
+    document.getElementById('sideBar').setAttribute('height',(yearSet.lenth+1)*24+20);
+}
+
+$(function(){
+  var duration=300;
+  
+  //azide
+  var $aside = $('#aside');
+  var $asideButton = $aside.find('button').on('click',function(){
+      $aside.toggleClass('open');
+      if($aside.hasClass('open')){
+          $aside.stop(true).animate({right:'-10px'},duration,'linear');
+      }
+      else{
+          $aside.stop(true).animate({right:'-100px'},duration,'linear');
+      }
+  });
+});
+
 //その論文が出た雑誌(ジャーナル：学術論文)名（Science など）の号、年
 //DOI
+
+var toggleTable = function(id){
+    $('#table'+id).toggle();
+}
